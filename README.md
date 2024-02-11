@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Subhabrata
 <!--
 **Ironfist69/Ironfist69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Recruit_069?theme=unicorn&font=Alata)
+- 😄 Pronouns: He/him/his
+- 👨‍💻 Studying BCA from Indira Gandhi National Open University
+- 🌐 Programming Languages: C, C++, Java
+- 📫 How to reach me: https://www.linkedin.com/in/subhabratasen09/
