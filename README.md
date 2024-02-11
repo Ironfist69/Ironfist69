@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Recruit_069?theme=unicorn&font=Alata)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Recruit_069?theme=unicorn&font=Alata&ext=heatmap)
 - 😄 Pronouns: He/him/his
 - 👨‍💻 Studying BCA from Indira Gandhi National Open University
 - 🌐 Programming Languages: C, C++, Java
