@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Recruit_069?theme=wtf&font=Ubuntu&ext=heatmap)
 - 😄 Pronouns: He/him/his
 - 👨‍💻 Studying BCA from Indira Gandhi National Open University
-- 🌐 Programming Languages: C, C++, Java, Python
+- 🌐 Programming Languages: C, C++, Java, Python, Javascript, React.js, TailwindCSS
 - 📫 How to reach me: https://www.linkedin.com/in/subhabratasen09/
